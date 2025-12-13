@@ -77,7 +77,7 @@ A collection of intelligent automation tools for daily tasks.
 
 ---
 
-## 📊 GitHub Analytics (Premium Dark Mode)
+## 📊 GitHub Analytics 
 
 ### 🔥 GitHub Stats
 ![AK GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak-devzone&show_icons=true&theme=tokyonight&hide_border=true)
