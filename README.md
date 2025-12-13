@@ -6,7 +6,7 @@
 <p align="center">
 <!--<img src="https://github.com/ak-devzone/ak-devzone/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.jpg"></img>-->
 
-<img src="https://github.com/ak-devzone/ak-devzone/blob/main/gif.gif" alt="Tech Banner" />
+<img src="https://github.com/ak-devzone/ak-devzone/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.gif" alt="AK profile" />
   
 </p>
 
